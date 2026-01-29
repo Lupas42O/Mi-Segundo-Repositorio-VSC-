@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class App {
-
+    //KELOKE
     static void imprimirMenu(){
         System.out.println("1. Mostrar todas las temperaturas");
         System.out.println("2. Mostrar las temperaturas menores que 10 grados");
@@ -51,3 +51,4 @@ public class App {
 
     }
 }
+
