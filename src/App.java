@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class App {
     //KELOKE KELOKUA
-    //Erik es mi novio y Dario también
+    //Erik es mi novio y Dario también(aunque sea pelirrojo)
     static void imprimirMenu(){
         System.out.println("1. Mostrar todas las temperaturas");
         System.out.println("2. Mostrar las temperaturas menores que 10 grados");
@@ -52,5 +52,6 @@ public class App {
 
     }
 }
+
 
 
